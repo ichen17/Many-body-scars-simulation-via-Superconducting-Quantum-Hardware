@@ -4,6 +4,8 @@ The Rydberg atom trapped in the optical lattice plays a crucial role for experim
 
 # The Result with Zero Noise Zero Noise Extrapolation, Post Selection, and Custom Pulse Gate
 
+We got the result from ibmq_casablanca.
+
 <img src="/image/Qubit_5.png" width="450" height="300">   
 <img src="/image/Qubit_4.png" width="450" height="300">   
 <img src="/image/Qubit_3.png" width="450" height="300">   
