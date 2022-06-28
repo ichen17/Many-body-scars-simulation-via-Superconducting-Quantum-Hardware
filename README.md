@@ -6,11 +6,8 @@ The Rydberg atom trapped in the optical lattice plays a crucial role for experim
 
 We got the result from ibmq_casablanca.
 
-<img src="/image/Qubit_5.png" width="450" height="300">   
-<img src="/image/Qubit_4.png" width="450" height="300">   
-<img src="/image/Qubit_3.png" width="450" height="300">   
-<img src="/image/Qubit_2.png" width="450" height="300">  
-<img src="/image/Qubit_1.png" width="450" height="300">  
+<img src="/image/Staggered_M.png" width="450" height="300">   
+
 
 # Other codes
 
