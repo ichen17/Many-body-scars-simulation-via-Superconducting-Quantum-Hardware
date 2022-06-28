@@ -6,7 +6,7 @@ The Rydberg atom trapped in the optical lattice plays a crucial role for experim
 
 We got the result from ibmq_casablanca.
 
-<img src="/image/Z_pi.png" width="450" height="250">   
+<img src="/image/Z_pi.png" width="450" height="200">   
 
 
 # Other codes
