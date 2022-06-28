@@ -4,6 +4,7 @@ The Rydberg atom trapped in the optical lattice plays a crucial role for experim
 
 # Non-trivial Correlation
 <img src="/image/Corr.png" width="450" height="150">   
+Dynamics of the correlator from the initial state, N ́eel state, in (a) the quantum many body scar regime (V = ∆t = 1, Ω = 0.24) and (b) the chaotic regime (V = 1, Ω = 2, ∆t = 0.16). They are calculated for a chain of 5 qubits using ibmq casablanca.
 
 # Other codes
 
