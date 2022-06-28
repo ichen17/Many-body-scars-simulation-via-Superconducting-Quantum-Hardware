@@ -14,4 +14,4 @@ We got the result from ibmq_casablanca.
 
 # Other codes
 
-We put our data and other codes in the [link](https://gitlab.com/QANED/rydberg_mfim/-/blob/master/README.md).
+We put our data and other codes in the [link](https://gitlab.com/QANED/rydberg_mfim/-/tree/master).
